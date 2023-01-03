@@ -1,0 +1,44 @@
+Repetition number : 1 
+Minimum knee angle : 45.48 degree
+Repetition Time : 14.5421621799469 seconds
+ 
+Repetition number : 2 
+Minimum knee angle : 82.14 degree
+Repetition Time : 12.2072434425354 seconds
+ 
+Repetition number : 3 
+Minimum knee angle : 87.09 degree
+Repetition Time : 11.637066125869751 seconds
+ 
+Repetition number : 4 
+Minimum knee angle : 99.35 degree
+Repetition Time : 10.57143783569336 seconds
+ 
+Repetition number : 5 
+Minimum knee angle : 51.59 degree
+Repetition Time : 12.277152061462402 seconds
+ 
+Repetition number : 6 
+Minimum knee angle : 0.48 degree
+Repetition Time : 11.063209295272827 seconds
+ 
+Repetition number : 7 
+Minimum knee angle : 3.34 degree
+Repetition Time : 13.198714256286621 seconds
+ 
+Repetition number : 8 
+Minimum knee angle : 17.47 degree
+Repetition Time : 11.990278482437134 seconds
+ 
+Repetition number : 9 
+Minimum knee angle : 0.26 degree
+Repetition Time : 32.24362850189209 seconds
+ 
+Repetition number : 10 
+Minimum knee angle : 117.55 degree
+Repetition Time : 55.16923713684082 seconds
+ 
+Repetition number : 11 
+Minimum knee angle : 43.81 degree
+Repetition Time : 32.689507246017456 seconds
+ 
